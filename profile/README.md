@@ -4,15 +4,15 @@ This is the Github organization hosting the source code of all projects related 
 
 ### hTON Contract
 
-hTON is a liquid-staking protocol. The smart-contract code is available on the [contract](contract) repository.
+hTON is a liquid-staking protocol. The smart-contract code is available on the [contract](https://github.com/HipoFinance/contract) repository.
 
 ### hTON App
 
-The front-end code for working with hTON is available on the [webapp](webapp) repository.
+The front-end code for working with hTON is available on the [webapp](https://github.com/HipoFinance/webapp) repository.
 
 ### hipo.finance Website
 
-The code of the [hipo.finance](https://hipo.finance) website is available on the [website](website) repository.
+The code of the [hipo.finance](https://hipo.finance) website is available on the [website](https://github.com/HipoFinance/website) repository.
 
 ### MIT License
 
