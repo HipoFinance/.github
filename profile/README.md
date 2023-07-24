@@ -1,4 +1,4 @@
-## hTON Contract
+## hTON: Hipo liquid staking protocol
 
 hTON is a decentralized, permission-less, open-source liquid staking protocol on the TON blockchain. Visit [Hipo.Finance](https://hipo.finance) for more information or read the [docs](https://docs.hipo.finance).
 
